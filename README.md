@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## My name is Nanda. I'm studying Biomedical Sciences and BioBusiness with a knack in Computer Science and Artificial Intelligence. I believe that the future is interdisciplinary and that the integration of Biology and computing will be a significant part of the world.
+
+🔭 I’m currently working on a collaborative Hackathon, possibly learning front-end and essential back-end frameworks and API systems to implement Artificial Intelligence.
+
+
 <!--
 **Nandajustin28/NandaJustin28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
