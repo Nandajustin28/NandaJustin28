@@ -2,7 +2,7 @@
 
 ## My name is Nanda. 
 
-*** I'm studying Biomedical Sciences and BioBusiness 
+### I'm studying Biomedical Sciences and BioBusiness 
 With a knack in Computer Science and Artificial Intelligence, I see potential in honing my skills in tech. I believe that the future is interdisciplinary and that the integration of Biology and computing will be a significant part of the world.
 
 🔭 I’m currently working on a collaborative Hackathon, possibly learning front-end and essential back-end frameworks and API systems to implement Artificial Intelligence.
