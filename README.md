@@ -4,7 +4,7 @@
 
 ### An aspiring pre-medical student, I'm studying Biomedical Sciences and BioBusiness
 #### I thrive at the intersection of fields, looking to build skills in tech
-With a foundation in Computing, I see potential in honing my skills in tech. I believe that the future is interdisciplinary and that the integration of Biology and computing will be a significant part of the world.
+With a foundation in Computing, I hope to hone my skills in tech. I believe that the future is interdisciplinary relevant computing skills would be necessary to bridge diverse fields.
 
 🔭 I’m currently working on a collaborative Hackathon, possibly learning front-end and essential back-end frameworks and API systems to implement Artificial Intelligence.
 
