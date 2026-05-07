@@ -2,7 +2,7 @@
 
 ## My name is Justin. 
 
-### An aspiring pre-medical student, I'm studying Biomedical Sciences and BioBusiness
+### An aspiring pre-med, I'm studying Biomedical Sciences and BioBusiness
 #### I thrive at the intersection of fields, looking to build skills in tech
 With a foundation in Computing, I hope to hone my skills in tech. I believe that the future is interdisciplinary relevant computing skills would be necessary to bridge diverse fields.
 
